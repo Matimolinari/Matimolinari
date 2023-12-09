@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Molinari Matias</h1>
-<h3 align="center">I am data enthusiast from Argentina with experience in Data Science and Data Analytics</h3>
+<h3 align="center">I am data enthusiast from Argentina with experience in Data Science and Data Analytics.My
+short-term goal is to continue growing and applying my skills in data science
+and data analysis roles in a dynamic environment where I can further develop as
+a professional. Additionally, I am a student in the University Systems Analyst
+program at the National University of La Plata.
+</h3>
 
 - 🔭 I’m currently working on **Data Analytics JR**
 
