@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Molinari Matias</h1>
 <h3 align="center">I am data enthusiast from Argentina with experience in Data Science and Data Analytics</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matimolinari" alt="matimolinari" /></a> </p>
-
 - 🔭 I’m currently working on **Data Analytics JR**
 
 - 🌱 I’m currently learning **Courses of Excel,google sheets and Data**
