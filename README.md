@@ -6,7 +6,7 @@ a professional. Additionally, I am a student in the University Systems Analyst
 program at the National University of La Plata.
 </h3>
 
-- 🔭 I’m currently working on **Data Analytics JR**
+- 🔭 I’m currently searching job of **Data Analytics/Data Science**
 
 - 🌱 I’m currently learning **Courses of Excel,google sheets and Data**
 
