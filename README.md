@@ -6,7 +6,8 @@ a professional. Additionally, I am a student in the University Systems Analyst
 program at the National University of La Plata.
 </h3>
 
-- 🔭 I’m currently searching job of **Data Analytics/Data Science**
+- 🔭 I’m currently working at Group Randazzo  as **Management control analyst**
+
 
 - 🌱 I’m currently learning **Courses of Excel,google sheets and Data**
 
